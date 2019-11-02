@@ -1,2 +1,0 @@
-# coursera
-my lessons
